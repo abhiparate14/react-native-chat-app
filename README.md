@@ -5,5 +5,5 @@ npm install
 
 To run this code :
 1) npx expo start
------or-----  
+
 2) npm start
